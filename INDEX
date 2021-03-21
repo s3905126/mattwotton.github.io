@@ -1,0 +1,262 @@
+<!DOCTYPE HTML>
+<!--
+	Read Only by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>COSC2196
+Introduction to Information Technology
+</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="is-preload">
+
+		<!-- Header -->
+			<section id="header">
+				<header>
+					<span class="image avatar"><img src="images/matthewwotton.jpg" alt="" /></span>
+					<h1 id="logo"><a href="#">Matthew Wotton</a></h1>
+
+								<p>s3905126</p>
+								<p>s3905126@student.rmit.edu.au</p>
+								<p>Australian born</p>
+								<p>2001 - Year 12 certificate</p>
+								<p>2018 - Certificate 3 Retail Baking</p>
+								<p>English Speaking</p>
+
+				</header>
+				<nav id="nav">
+					<ul>
+						<li><a href="#one" class="active">You May Find Interesting</a></li>
+						<li><a href="#two">Interest in IT</a></li>
+						<li><a href="#three">Ideal Job</a></li>
+						<li><a href="#four">Personal Profile</a></li>
+						<li><a href="#Five">Project Idea</a></li>
+
+					</ul>
+				</nav>
+				<footer>
+					<ul class="icons">
+						<li><a href="#" class="icon brands fa-github"><span class="label">Github</span></a></li>
+					</ul>
+				</footer>
+			</section>
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- One -->
+							<section id="one">
+								<div class="image main" data-position="center">
+									<img src="images/banner.jpg" alt="" />
+								</div>
+								<div class="container">
+									<header class="major">
+										<h2>You May Find Interesting</h2>
+
+									</header>
+									<p>I am a trade qualified baker of 15 years, specialising in sourdough bread. I prefer to make sourdough bread as it is very hands on and typically does not rely on machines such as dough moulders.</p>
+
+<p>I originally wanted to be a chef but found I was more suited to baking as a hot kitchen can be quite a stressful atmosphere. I love cooking at home and making homemade pizzas as it combines my two loves: cooking and making bread.
+</p>
+								</div>
+							</section>
+
+						<!-- Two -->
+							<section id="two">
+								<div class="container">
+									<h3>Interest in IT</h3>
+									<p><b>What is your interest in IT? When did your interest in IT start? Was there a particular event or person that sparked your interest? Outline your IT experience (if any).</b></p>
+
+<p>IT is an ever-evolving industry and what it is now is completely different to what it was 10 years ago. Our lives are affected by IT every day, whether it be our smart phones sending a notification to us sitting down in front of the TV watching Netflix. It’s this kind of innovation that interests me and what will come in the future.
+
+I was initially interested in IT as a high school student while taking computing classes. However, as my life evolved and started to include new activities, my interest took a back seat to everyday life goals and needs.
+
+My interest in IT was been re-sparked as I look to future proof my career and get out of the hospitality industry.
+
+I have no professional experience in IT outside of being an end user.</p>
+
+<p><b>Why did you choose to come to RMIT?</b></p>
+
+I chose RMIT as it had more flexible study options through Open Universities. I also know RMIT is considered one of the top universities when it comes to IT studies.
+
+
+
+
+
+What do you expect to learn during your studies?
+
+My aim is to learn and to take in as much as I can during my studies so I can determine where I may be best suited to pursue a niche interest within the IT industry.
+</p>
+
+								</div>
+							</section>
+
+						<!-- Three -->
+							<section id="three">
+								<div class="container">
+									<h3>Ideal Job</h3>
+									<p>My ideal job would be one of Cyber Security Analyst. Cyber crime and Information technology security is of major importance, not only to big businesses who need to protect their data and their customers data but also to personal users who need to protect their private information and data. </p>
+
+<p>My current understanding is that hackers and the alike are always finding new and creative ways to breach security systems and I find the need to be ahead of such breaches interesting and complex work which I believe I would enjoy and excel at.</p>
+
+
+
+
+									<div class="features">
+										<article>
+											<a href="https://www.seek.com.au/job/51742510?type=standout#searchRequestToken=5bb44240-5c6e-4698-8d4b-7b92d1ad6fdb" class="image"><img src="images/Joblink.jpg" alt="" /></a>
+											<div class="inner">
+												<h4>Description of skills, qualifications, and experience required</h4>
+												<p>The Citadel Group would ideally like someone who is interested in the cyber security field of IT with a strong understanding of IT systems as well as networking and security concepts. Someone who is may have been in a management or supervisory role would be of benefit as junior staff may need mentoring. Written and verbal skills are required as is the need to communicate effectively with other teams and customers.</p>
+
+<p>Further experience with the following software would be ideal, Elastic, Azure and EndGame. As well as knowledge and experience in security operations, SIEM, endpoint detection, threat hunting, security sandbox technologies, forensics, reverse engineering, firewalls, content filtering, file monitoring technologies, information software and software development.</p>
+
+<p>Qualifications required for the above role would include a Bachelor in IT specialising in cyber security and software development and certifications including; SANS GCIA / SANS GCIH / SANS GPEN / CISSP / OSCP would go a long way in being considered for this role.</p>
+<h4>Description of skills, qualifications and experience I currently have.</h4>
+<p>I currently do not have the technical skills or knowledge required for this position; however, I do have excellent verbal and written communication skills and interpersonal skills which would allow me to liaise with my peers and customers in an effective manner.<p>I believe this to be true as I currently hold a management position in my current work industry where I supervise junior staff as well as train in specialised skills and I have previously held a position where communicating various stakeholders was part of my role. </p>
+<h4>A plan describing how I will obtain the skills, qualifications and experience required for the position. </h4>
+<p>In order to achieve my goal as a Cyber Security Analyst with The Citadel Group, I will need to firstly complete my Bachelor of IT through RMIT with a focus on cyber security and software development. By doing this initial step I will have a good grounding of the IT industry and the required skills to develop my experience for the role. The next step would be to further my skill set and training by enrolling in the required courses to obtain the certificates outlined in the job description. This would then require continued upskilling to ensure certification remained up to date. </p>
+
+							</section>
+
+						<!-- Four -->
+							<section id="four">
+								<div class="container">
+									<h4>Personal Profile:</h4>
+									<div class="features">
+										<article>
+											<a class="image"><img src="images/Big5.jpg" alt="" /></a>
+											<div class="inner">
+												<h4>Big 5 Personality Test:</h4>
+<p><b> What do the results of these tests mean for you?</b></p>
+
+<p>I believe this result to be correct and accurate of how I conduct myself. I am an outgoing person and enjoy being social.</p>
+
+<p><b>How do you think these results may influence your behaviour in a team?</b></p>
+
+<p>I don’t think these results will influence my behaviour in a negative way. I find my personality type to be a positive as I tend to take the leader role within a group, and I have no problems in communicating with them.</p>
+
+<p><b>How should you take this into account when forming a team?</b></p>
+
+<p>I prefer to be in a team with similar people who can communicate effectively. And as such, I have reached out to people who have been active within our discussion boards and chats.</p>
+
+								</div>
+								</div>
+								</div>
+
+								<div class="container">
+									<h4></h4>
+									<div class="features">
+										<article>
+											<a class="image"><img src="images/MyersBriggs.jpg" alt="" /></a>
+											<div class="inner">
+												<h4>Myers-Briggs Personality Tests:</h4>
+<p><b> What do the results of these tests mean for you?</b></p>
+
+<p>Out of all of the tests, this one is the most thorough and accurate. I love to be the entertainer and I am loud and constantly sing and dance to please myself first and foremost. I get a genuine buzz in seeing other people happy and do my best to lift the energy of others who might be around. </p>
+
+<p><b>How do you think these results may influence your behaviour in a team?</b></p>
+
+<p>I’m very relaxed and bring a calming energy when at work which helps others relax and to get on with the task with minimal stress. I can also lift energies when required to help build excitement traction when a task gets repetitive and boring. My behaviour is not influenced by the team I am in as I act the same in most situations. </p>
+
+<p><b>How should you take this into account when forming a team?</b></p>
+
+<p>Again, I look for similar traits and eagerness to participte in group activities such as discussion boards and chat pages.</p>
+
+								</div>
+								</div>
+								</div>
+
+								<div class="container">
+									<h4></h4>
+									<div class="features">
+										<article>
+											<a class="image"><img src="images/Learningstyletest.jpg" alt="" /></a>
+											<div class="inner">
+												<h4>Learning Style Test:</h4>
+<p><b> What do the results of these tests mean for you?</b></p>
+
+<p>I 100% prefer to learn by doing and by being hands on as well as learning from the mistakes in the process. I do often forget the steps in between to finishing a task but can always finish a task. I do fidget a lot and tend to take smaller more frequent breaks when attempting to complete a task. </p>
+
+<p><b>How do you think these results may influence your behaviour in a team?</b></p>
+
+<p>As I do prefer to be hands on and learn as I do, I may find it difficult to process some information when working in a team remotely. It means I need to be more aware and focused on my actions, so I do not miss information that my team conveys to me. </p>
+
+<p><b>How should you take this into account when forming a team?</b></p>
+
+<p>My strategy has remained the same when forming a team and for the people I look for; active in the discussion groups as well as the chat forums.</p>
+
+								</div>
+							</section>
+
+
+							<!-- Five -->
+								<section id="Five">
+									<div class="container">
+										<h3>Project Idea</h3>
+										<p><b>Drive Aware</b></p>
+
+	<p>Drive Aware will be a mobile app available through the Apple App Store which professional drivers, (e.g., long haul truck drivers) and their employers will use to track fatigue indicators and warn of fatigue caused by long periods of sustained driving.  The mobile app will work in conjunction with a wearable smart device that will be designed as part of the project. Drive Aware will provide real time monitoring and observe and track vital signs of its users which will include heart rate, O2 levels in the blood stream, body temperature, and respiration rate. The front facing camera of the iPhone will also be utilised to monitor eye movement, yawning, user alertness and head positioning with the help of AI technology.</p>
+
+	<p>According to the Western Australian Road Safety Commission; in 2018 there were 15 fatigue related fatalities on their roads. (Safety, 2021) and a total of 1135 road user deaths in Australia of that same year. (Road deaths road users, 2021)</p>
+<p>“Without truck drivers, Australia stops” has been a long-held mantra within the transport industry, but it is this mantra that has caused drivers and operators to push their limits and their safety by driving and operating under fatigue caused by tiredness. By developing a mobile app and wearable tech that can track a driver’s vital signs. The motivation behind Drive Aware is to help decrease deaths of road users cause by fatigue and driving tired.  </p>
+<p>Drive Aware will be a mobile app that will be used in conjunction with a smart wearable device which will provide real time monitoring of its users’ vital signs. It will also visually monitor the user to determine signs of fatigued based off eye movement, yawning, alertness and head positioning by using the front facing camera of the iPhone. AI technology will be utilised to learn a user’s vital base levels and body positioning to help alleviate false readings.  </p>
+<p>Employers will have the functionality to access real time data of their drivers through the app as well as access the live video and audio stream provided by the front facing iPhone camera, with the iPhone to be placed on a purpose built base located on the dashboard of the vehicle.</p>
+<p>The smart wearable device located around the wrist of the user will be powered by a rechargeable lithium battery and have 4 embedded sensors that will each monitor different vital signs: heart rate, O2 levels in the blood stream, body temperature and respiration rate.</p>
+<p>With the integration of AI technology, vital base levels will be learnt of each user. This information can be used to set alerts and alarms to notify the user of signs of fatigue or falling asleep while driving. Alerts and alarms will also be received by staff that are monitoring the user in real time, who can then contact the driver directly through the app with the two-way microphone feature.</p>
+<p>In the case of a crash, a fifth sensor will be activated which will enable the app to contact emergency services and provide location details with the help of the iPhones GPS system.</p>
+<p>All data received by Drive Aware will be encrypted and stored using a subscription based cloud service with access to be determined by the end user.</p>
+<p>The Drive Aware app will need to be developed and written in a yet to be determined code language, however if a service such as MIT App Inventor could be utilised; that would be preferred.  Existing hardware to be used is the Apple iPhone and new hardware will need to be designed in the form of the wearable smart device around the users’ wrist. A suitable charging and docking system will need to be designed to enable dashboard placement, with MagSafe technology preferred for newer iPhones.  Suitable material for the wearable device would need to be investigated and prototyped to ensure ergonomics and comfortability is optimised.</p>
+<p>Skills and tools that will be required will include coding of the app, interface design, software integration to Apple iOS and hardware integration, AI technology, hardware development of wearable tech and design including sensor development.</p>
+<p>I believe the feasibility of this project is high as the skill, software and hardware is already in use within IT. It will be the integration of all elements which will be the difficult step, however it is achievable.</p>
+<p>The outcome of a successful project will be safer roads and fewer deaths of road users due to driver fatigue. Drive Aware will provide education and awareness to drivers and the transport industry as a whole of the effects of driving tired. It will empower users to make smarter decisions about their driving habits and provide a greater responsibility to driver safety to employers as they have the tools collect data and monitor operations in real time.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+									</div>
+								</section>
+
+
+					</div>
+
+				<!-- Footer -->
+					<section id="footer">
+						<div class="container">
+							<ul class="copyright">
+								<li>&copy; Assessment 1 My Profile. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+							</ul>
+						</div>
+					</section>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
